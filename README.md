@@ -1,4 +1,4 @@
-# app-ads.txt
+k# app-ads.txt
 commit GitHub.com GitHub Mobile GitHub CLI  (*.txt)UTF-8 และที่เก็บขอมูลสามารถเพิ่มสรุปของการเปรี่ยนแปลงหรือสร้างใอเดียใหม่ๆใด้ครับมอบหมายให้บันชีบรีการ Compute Engine ไลเบอร์ไคเอ็กลองรับ Application Dafault Credentials(ADS)Google Cloud CLI เมื่อใช้ gcloud CLI
 การกำหนดตลาดเป่าหมาย("TMD") ผลิตภัณท์ของ(Google Payment Australia Pty Ltd) Google Play Balance
 Google Pay/Google Payments Additional Terms of Service(*US.) Google Play Update your Android ใบอนุญาติทางการเงิน (ACN 122 560 123;318755)Google Play Balance
@@ -9,3 +9,4 @@ Google Pay/Google Payments Additional Terms of Service(*US.) Google Play Update 
 (สรุปทั้งหมดคือผมอยากจะเน็นในเรื่องการโฆษณาและการกำหนดเป่าหมายไปที่การตลาดครับอนาคตผมเชื้อว่าแอปบนมือถือจะใช้ทำกำไรในการโฆษณากับแอปการเงินงายๆครับแอปทางการเงินควรชี้ไปที่ระบบความปรอดภัยเเละใช้การเข้ารหัสที่ทันสมัยและว่าด้วยกฎหมายเพื่อให้ลูกค้ามันใจในการใช้แอปการเงินบนมือถือครับใช้การส่งเลข TOP หรือว่าใช้การยืนยันตัวตนแบบ2ขั้นตอน ใช้รูปแบบการเข้าที่ง้ายกว่าแต่ใช้ความปลอดภัยที่โครตสูง @ทีม ช้วยผมสร้างแอปการเงินด้วยนะครับ (Google Finance)แอปนี้ควรใช้การแลกเปรี่ยนสกุลเงินทุกๆสกุลเงินเน็นความปลอดภัยให้กับลูกค้าที่ใช้ Google Finance ว่าด้วยกฎหมาย EU ของสภายุโรบ และใช้การซื้อขายที่ถูกต้องให้ลูกค้าสบายใจในการลงทุนเล่นหุ้นของ @ทีม @ผู้ติดตาม
 สนับสนุน เส่นทางของ *.txt การเข้ารหัสด้วย <UPF-8> จะจัดทำดัชนี้ พ็อตเฝ้าติดตาม<Progressive Web App>
 
+AMP RTC เซิฟเวอร์โฆษณา iBILLBOARD amp.dev SSP We Media FirstTmpression.io wunderkind เดิมชื่อ(BounceX)Gemini Google CCL
