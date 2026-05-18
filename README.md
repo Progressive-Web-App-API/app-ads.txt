@@ -1,4 +1,27 @@
-# app-ads.txt
+# app-ads.txt (.txt) Notepad(Windows) หรือ TextEdit(Mac) 
+App-ads.txt Publisher Advisory
+March 13, 2019
+Published with the App-ads.txt final spec release
+Dear App Publisher,
+We are pleased to announce that following the release of Authorized Digital Sellers specification
+(Ads.txt) for desktop and mobile web inventory in September 2017, IAB Tech Lab has now
+further extended this specification to the app ecosystem, in order to fight fraud and positively
+impact your monetization. Read more about the final app-ads.txt specification in this blog post.
+What does this mean for app publishers?
+On March 13, 2019 IAB Tech Lab released a final version of Authorized Sellers for Apps
+(app-ads.txt). This means that app publishers who adopt can now better control their inventory
+in the market, making it harder for bad actors to profit from selling counterfeit inventory across
+the app ecosystem.
+To note:
+The spec aims at defining a standard protocol for obtaining the app developer’s website URL
+from an app listing page within an app store, imposing minimal implementation burden for
+stores.
+It is important to note that IAB cannot enforce any standard, hence the specification includes a
+recommended guidance for stores to help facilitate the execution of a transparent and safer
+transaction within the app ecosystem.
+Each store is highly recommended to comply with this spec. However, in the absence of such
+support, the advertising system should retrieve the app developer’s website URL through each
+store’s specific methodology.
 commit GitHub.com GitHub Mobile GitHub CLI  (*.txt)UTF-8 และที่เก็บขอมูลสามารถเพิ่มสรุปของการเปรี่ยนแปลงหรือสร้างใอเดียใหม่ๆใด้ครับมอบหมายให้บันชีบรีการ Compute Engine ไลเบอร์ไคเอ็กลองรับ Application Dafault Credentials(ADS)Google Cloud CLI เมื่อใช้ gcloud CLI
 การกำหนดตลาดเป่าหมาย("TMD") ผลิตภัณท์ของ(Google Payment Australia Pty Ltd) Google Play Balance
 Google Pay/Google Payments Additional Terms of Service(*US.) Google Play Update your Android ใบอนุญาติทางการเงิน (ACN 122 560 123;318755)Google Play Balance
